@@ -1,6 +1,6 @@
 # Project1
 
-APPLICATION DESCRIPTION
+
 > A real-time news analyzer in the form of a Scala console application. This application allows users to view trending topics (e.g. all trending topics for news related to
     "politics", "tv shows", "movies", "video games", or "sports") and perform user determined queries. 
 
