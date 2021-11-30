@@ -17,7 +17,7 @@ List of features ready and TODOs for future development
 - Customizable API request
 - Customizable Query
 - Login System\
-To-do list:
 
+To-do list:
 - Give Admin additional functionalities
 - Perhaps provide 'quick query' directory for frequently used queries
