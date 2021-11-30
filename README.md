@@ -4,7 +4,7 @@ With this program, a user is able to:
   - Make a completely customizable API request to medistack.com 
   - Store the results on HDFS
   - Perform a customized query on the data retrieved
-  - Change Name and Password
+  - Change name and password
   - Admin Users have the ability to add new Standard Users
 
 # Technologies Used
