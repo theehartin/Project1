@@ -12,7 +12,6 @@ With this program, a user is able to:
 - Scala
 - Hive
 # Features
-List of features ready and TODOs for future development
 
 - Customizable API request
 - Customizable Query
